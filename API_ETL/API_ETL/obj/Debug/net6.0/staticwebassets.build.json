@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "IPNP1V9ceuDjNFtYwY0ny0knt6jnV6Ap5rymb4f3L/s=",
+  "Source": "API_ETL",
+  "BasePath": "_content/API_ETL",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
