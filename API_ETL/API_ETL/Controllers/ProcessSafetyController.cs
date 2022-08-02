@@ -1,4 +1,9 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿//Author: Anushka Sharma
+//Date: August 2, 2022
+//Purpose: The ProcessSafetyController handles the the GET request (including optional parameters), forms the SQL query string, passes it to SQLHandler for the request to be completed,
+//and then returns the result, all for the Process Safety table.
+
+using Microsoft.AspNetCore.Mvc;
 
 namespace API_ETL.Controllers
 {
